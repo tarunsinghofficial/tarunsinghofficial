@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tarun Singh !</h1>
 
 
-<img src="https://github.com/tarunsinghofficial/images/blob/master/20200716_234146_0000.png" width="800" height="360">
+<img src="https://github.com/tarunsinghofficial/images/blob/master/20200716_234146_0000.png" width="350" height="180">
 
 I'm a Full Stack Developer, Software Developer Enthusiast and an open source contributor. Some technologies I enjoy working with include HTML5, CSS3, Javascript, SQL etc. I recently launched my portfolio website- <a href="https://tarunsinghofficial.github.io/portfolio" target="_blank"> Tarun's portfolio</a> as a project.
 
