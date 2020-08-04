@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tarun Singh !</h1>
+<h1>Hi, I'm Tarun Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
 
 <img src="https://github.com/tarunsinghofficial/images/blob/master/20200716_234146_0000.png" width="350" height="180">
