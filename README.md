@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tarun Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
+<h1>Hi, I'm khushi! <img src="https://tse1.mm.bing.net/th?id=OIP.1YM53mG10H_U25iPjop83QHaEo&pid=Api&rs=1&c=1&qlt=95&w=164&h=102" width="30px" style="max-width:100%;"></h1>
 
 
 <img src="https://github.com/tarunsinghofficial/images/blob/master/20200716_234146_0000.png" width="350" height="180">
