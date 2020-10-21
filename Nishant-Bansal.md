@@ -1,3 +1,0 @@
-Nishant bansal
-
-location: India
