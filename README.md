@@ -15,18 +15,18 @@ I'm a Full Stack Developer, Software Developer Enthusiast and an open source con
 🔹️Database : MS Access , Mysql<br>
 🔹️Operating System: Windows.<br>
 
-- 🌱 I’m currently learning more about <b>Full Stack Development</b>.
-- 👯 I’m looking to collaborate on <b>Youtube</b>.
-- 🤔 I’m looking for help with <b>Open Source Development</b>.
-- 💬 Ask me about <b>Web Development, SQL, Databases</b>. 
-- 😄 Pronouns: He/His
+🌱 I’m currently learning more about <b>Full Stack Development</b>.<br>
+👯 I’m looking to collaborate on <b>Youtube</b>.<br>
+🤔 I’m looking for help with <b>Open Source Development</b>.<br>
+💬 Ask me about <b>Web Development, SQL, Databases</b>. <br>
+😄 Pronouns: He/His
 
-<h2> Find me around the web 🌎: </h2>
+<h2> Find me around the web 🌎: </h2><br>
 
-- My Portfolio-<a href="https://tarunsinghofficial.media" target="_blank">@Website</a>
-- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/tarunsingh24" target="_blank">@LinkedIn</a>
-- Follow me on Twitter-<a href="https://twitter.com/itsTarun24" target="_blank">@Twitter</a>
-- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/taruncoder?hr_r=1" target="_blank">@HackerRank</a>
-- Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/tarunsinghwap7/articles" target="_blank">@GeeksforGeeks</a>
+- My Portfolio-<a href="https://tarunsinghofficial.media" target="_blank">@Website</a><br>
+- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/tarunsingh24" target="_blank">@LinkedIn</a><br>
+- Follow me on Twitter-<a href="https://twitter.com/itsTarun24" target="_blank">@Twitter</a><br>
+- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/taruncoder?hr_r=1" target="_blank">@HackerRank</a><br>
+- Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/tarunsinghwap7/articles" target="_blank">@GeeksforGeeks</a><br>
 
 
