@@ -1,8 +1,5 @@
 <h1>Hi, I'm Tarun Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-
-<img src="https://github.com/tarunsinghofficial/images/blob/master/20200716_234146_0000.png" width="350" height="180">
-
 I'm a Full Stack Developer, Software Developer Enthusiast and an open source contributor. I'm currently a student At Maharaja Surajmal Institute affiliated with GGSIP University, Delhi, India, where I am pursuing my Bachelor of Computer Application (BCA).
 
 💻 Technical Content Writer at GFG (Checkout here- https://rb.gy/kqf7i5) 
