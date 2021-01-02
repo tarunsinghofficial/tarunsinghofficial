@@ -9,7 +9,7 @@ I'm a Full Stack Developer, Software Developer Enthusiast and an open source con
 
 ▪️ My skills include :<br>
 🔹️Programming Language: C, C++, JAVA <br>
-🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs<br>
+🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs<br>  
 🔹️Web Development: Html 5 , CSS 3 , Javascript<br>
 🔹️Framework & Tools : .NET, Git , VS Code<br>
 🔹️Database : MS Access , Mysql<br>
@@ -20,6 +20,10 @@ I'm a Full Stack Developer, Software Developer Enthusiast and an open source con
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
 💬 Ask me about <b>Web Development, SQL, Databases</b>. <br>
 😄 Pronouns: He/His
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsinghofficial)](https://github.com/tarunsinghofficial/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tarunsinghofficial)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2> Find me around the web 🌎: </h2><br>
 
