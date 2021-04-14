@@ -27,7 +27,7 @@ I'm a Full Stack Developer, Software Developer Enthusiast and an open source con
 
 <h2> Find me around the web 🌎: </h2><br>
 
-- My Portfolio-<a href="https://tarunsinghofficial.media" target="_blank">@Website</a><br>
+- My Portfolio-<a href="https://tarunsinghportfolio.media" target="_blank">@Website</a><br>
 - Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/tarunsingh24" target="_blank">@LinkedIn</a><br>
 - Follow me on Twitter-<a href="https://twitter.com/itsTarun24" target="_blank">@Twitter</a><br>
 - Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/taruncoder?hr_r=1" target="_blank">@HackerRank</a><br>
