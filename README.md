@@ -8,17 +8,17 @@ I'm a Full Stack Developer, Software Developer Enthusiast and an open source con
 ➡️ YouTuber
 
 ▪️ My skills include :<br>
-🔹️Programming Language: C, C++, JAVA <br>
-🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs<br>  
-🔹️Web Development: Html 5 , CSS 3 , Javascript<br>
-🔹️Framework & Tools : .NET, Git , VS Code<br>
-🔹️Database : MS Access , Mysql<br>
+🔹️Programming Language: C, C++, JAVA, JavaScript <br>
+🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
+🔹️Web Development: HTML5 , CSS3 <br>
+🔹️Framework & Tools : React Native, .NET, Git , VS Code<br>
+🔹️Database : MS Access , MySQL<br>
 🔹️Operating System: Windows.<br>
 
-🌱 I’m currently learning more about <b>Full Stack Development</b>.<br>
+🌱 I’m currently learning more about <b>React Native Development</b>.<br>
 👯 I’m looking to collaborate on <b>Youtube</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
-💬 Ask me about <b>Web Development, SQL, Databases</b>. <br>
+💬 Ask me about <b>Web Development, React Native, SQL, Databases</b>. <br>
 😄 Pronouns: He/His
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsinghofficial)](https://github.com/tarunsinghofficial/github-readme-stats)
