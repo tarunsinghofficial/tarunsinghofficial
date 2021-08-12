@@ -1,8 +1,8 @@
 <h1>Hi, I'm Tarun Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-I'm a React Native Developer, Web Developer, Software Developer Enthusiast and an open source contributor. I'm currently a student At Maharaja Surajmal Institute affiliated with GGSIP University, Delhi, India, where I am pursuing my Bachelor of Computer Application (BCA).
+I'm a React Native Developer, Web Developer, Software Developer Enthusiast and an open source contributor. I'm currently a Microsoft Learn Student Ambassador and pursuing BCA at Maharaja Surajmal Institute affiliated with GGSIP University, Delhi, India.
 
-💻 Technical Content Writer at GFG (Checkout here- https://rb.gy/kqf7i5) 
+💻 Technical Content Writer at GeeksforGeeks (Checkout here- https://rb.gy/kqf7i5) 
 <br>
 🎓 An Open-Source enthusiast<br>
 ➡️ YouTuber
@@ -11,9 +11,10 @@ I'm a React Native Developer, Web Developer, Software Developer Enthusiast and a
 🔹️Programming Language: C, C++, JAVA, JavaScript <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
 🔹️Web Development: HTML5 , CSS3 <br>
-🔹️Framework & Tools : React Native, .NET, Git , VS Code<br>
+🔹️Framework & Tools : React Native, Redux, Node JS, .NET, Bootstrap, Git<br>
 🔹️Database : MS Access , MySQL<br>
 🔹️Operating System: Windows.<br>
+🔹️IDEs: VS Code, Visual Studio, Eclipse, Android Studio<br>
 
 🌱 I’m currently learning more about <b>React Native Development</b>.<br>
 👯 I’m looking to collaborate on <b>Youtube</b>.<br>
