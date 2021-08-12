@@ -7,9 +7,9 @@ I'm a React Native Developer, Web Developer, Software Developer Enthusiast and a
 🎓 An Open-Source enthusiast<br>
 ➡️ YouTuber
 
-▪️ My skills include :<br>
+<b>My skills include :</b><br>
 🔹️Programming Language: C, C++, JAVA, JavaScript <br>
-🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
+🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>
 🔹️Web Development: HTML5 , CSS3 <br>
 🔹️Framework & Tools : React Native, Redux, Node JS, .NET, Bootstrap, Git<br>
 🔹️Database : MS Access , MySQL<br>
