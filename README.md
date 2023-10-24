@@ -9,12 +9,11 @@ I'm a React Native Developer, Web Developer, Software Developer Enthusiast and a
 
 <b>My skills include :</b><br>
 🔹️Programming Language: C, C++, JAVA, JavaScript <br>
-🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>
-🔹️Web Development: HTML5 , CSS3 <br>
-🔹️Framework & Tools : React Native, Redux, Node JS, .NET, Bootstrap, Git<br>
+🔹️Problem Solving Skills: Data structure & Algorithms , OOPs<br>
+🔹️Web Development: React, NextJS, HTML5, CSS3, Tailwind, Bootstrap<br>
+🔹️Framework & Tools : .NET, Git , VS Code<br>
 🔹️Database : MS Access , MySQL<br>
-🔹️Operating System: Windows.<br>
-🔹️IDEs: VS Code, Visual Studio, Eclipse, Android Studio<br>
+🔹️Operating System: Windows<br>
 
 🌱 I’m currently learning more about <b>React Native Development</b>.<br>
 👯 I’m looking to collaborate on <b>Youtube</b>.<br>
