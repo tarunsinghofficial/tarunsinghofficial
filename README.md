@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tarun Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
+<h1>Hi, I'm khushi! <img src="https://tse1.mm.bing.net/th?id=OIP.1YM53mG10H_U25iPjop83QHaEo&pid=Api&rs=1&c=1&qlt=95&w=164&h=102" width="30px" style="max-width:100%;"></h1>
 
 I'm a Software Developer, and MCA (SE) student at the University School of Information, Communication and Technology (USICT), GGSIP University, Delhi. Freelance Technical Writer with a portfolio of over 400 technical articles/blogs, Geek of the Month award and Bronze level Technical Writer by GeeksforGeeks.
 
