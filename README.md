@@ -9,7 +9,7 @@
 ---
 
 - 💼 SDE at **Health Catalyst**
-- 🚌 **GSoC 2026** contributor and founding-engineer-style maintainer on **Wayfinder** (SvelteKit transit app) at OTSF, mentored by Aaron Brethorst — shipping accessibility fixes and helping shape the project's direction
+- 🚌 **GSoC 2026** contributor and founding-engineer-style maintainer on **Wayfinder** (SvelteKit transit app) at OTSF — shipping accessibility fixes and helping shape the project's direction
 - ✍️ 700+ published technical articles, 2.5M+ total views (GeeksforGeeks, FreeCodeCamp, AppSignal, QA.tech)
 - 👨‍💻 All projects: [devtarun.com/#projects](https://devtarun.com/#projects)
 - 📝 Blog: [blog.devtarun.com](https://blog.devtarun.com)
